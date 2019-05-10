@@ -1,0 +1,18 @@
+{
+  "name": "js-native-blog",
+  "version": "1.0.0",
+  "description": "learn native js & es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "webpack",
+    "npm",
+    "firebase"
+  ],
+  "author": "Makhnev Andrey",
+  "license": "ISC"
+}
